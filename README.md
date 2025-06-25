@@ -1,9 +1,15 @@
 # INTERACTIVE-QUIZ-APPLICATION
+
 *COMPANY*: CODETECH IT SOLUTIONS
+
 *NAME*: RAJ VERMA
+
 *INTERN ID*: CTO4DF1448
+
 *DOMAIN*: FRONTEND WEB DEVELOPMENT
+
 *DURATION*: 4 WEEKS
+
 *MENTOR*: NEELA SANTOSH
 
 ## Interactive Quiz Application
@@ -76,8 +82,7 @@ Some enhancements that could be implemented include:
 - Allowing user authentication and score tracking with a backend.
 - Making the app multilingual or subject-specific.
 
----
+#OUTPUT
 
-## Conclusion
+![Image](https://github.com/user-attachments/assets/ae07f23f-213b-4c63-a69e-729accd1b632)
 
-This Interactive Quiz App is a practical project for learning how to build dynamic web applications. It not only highlights the developer’s grasp of JavaScript fundamentals but also demonstrates the ability to create responsive, real-world applications that offer a seamless user experience. It's a solid foundation for anyone interested in front-end development and can be continuously expanded with advanced features as skills grow.
